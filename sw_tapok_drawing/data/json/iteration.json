@@ -509,8 +509,8 @@
   "date_end": "2017-05-23",
   "theme": "Домохозяйка",
   "theme_user_id": 23,
-  "win_user_id": null,
-  "description": "?"
+  "win_user_id": 16,
+  "description": null
  },
  {
   "id": 58,
@@ -518,6 +518,24 @@
   "date_end": "2017-05-30",
   "theme": "Банан",
   "theme_user_id": 1,
+  "win_user_id": 14,
+  "description": null
+ },
+ {
+  "id": 59,
+  "date_begin": "2017-05-30",
+  "date_end": "2017-06-06",
+  "theme": "Ангел",
+  "theme_user_id": 16,
+  "win_user_id": null,
+  "description": null
+ },
+ {
+  "id": 60,
+  "date_begin": "2017-06-06",
+  "date_end": "2017-06-13",
+  "theme": "Унесённые мылом",
+  "theme_user_id": 14,
   "win_user_id": null,
   "description": "?"
  }

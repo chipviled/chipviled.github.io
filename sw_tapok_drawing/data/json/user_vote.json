@@ -426,5 +426,45 @@
  {
   "user_id": 15,
   "vote_id": 120
+ },
+ {
+  "user_id": 10,
+  "vote_id": 128
+ },
+ {
+  "user_id": 28,
+  "vote_id": 128
+ },
+ {
+  "user_id": 8,
+  "vote_id": 128
+ },
+ {
+  "user_id": 30,
+  "vote_id": 128
+ },
+ {
+  "user_id": 14,
+  "vote_id": 128
+ },
+ {
+  "user_id": 28,
+  "vote_id": 130
+ },
+ {
+  "user_id": 16,
+  "vote_id": 131
+ },
+ {
+  "user_id": 9,
+  "vote_id": 131
+ },
+ {
+  "user_id": 30,
+  "vote_id": 131
+ },
+ {
+  "user_id": 1,
+  "vote_id": 131
  }
 ]
