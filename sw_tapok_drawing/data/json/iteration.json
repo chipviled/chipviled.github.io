@@ -5,7 +5,6 @@
   "date_end": "2016-04-26",
   "theme": "Карнавал",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": "Пилотный этап"
  },
  {
@@ -14,7 +13,6 @@
   "date_end": "2016-05-03",
   "theme": "Пасхальный кролик",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -23,7 +21,6 @@
   "date_end": "2016-05-10",
   "theme": "Освежающий напиток",
   "theme_user_id": 1,
-  "win_user_id": 3,
   "description": null
  },
  {
@@ -32,7 +29,6 @@
   "date_end": "2016-05-17",
   "theme": "Роликовые коньки",
   "theme_user_id": 1,
-  "win_user_id": 9,
   "description": null
  },
  {
@@ -41,7 +37,6 @@
   "date_end": "2016-05-24",
   "theme": "Мяч",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -50,7 +45,6 @@
   "date_end": "2016-05-31",
   "theme": "Химический опыт",
   "theme_user_id": 9,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -59,7 +53,6 @@
   "date_end": "2016-06-07",
   "theme": "I was born by myself",
   "theme_user_id": 2,
-  "win_user_id": null,
   "description": "Подсказка к теме: https://youtube.com/embed/GM8h2Xyis9M"
  },
  {
@@ -68,7 +61,6 @@
   "date_end": "2016-06-14",
   "theme": "Мыльные пузыри",
   "theme_user_id": 3,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -77,7 +69,6 @@
   "date_end": "2016-06-21",
   "theme": "Футбол",
   "theme_user_id": 9,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -86,7 +77,6 @@
   "date_end": "2016-06-28",
   "theme": "Арбуз",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -95,7 +85,6 @@
   "date_end": "2016-07-05",
   "theme": "Облака",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -104,7 +93,6 @@
   "date_end": "2016-07-12",
   "theme": "Пляж",
   "theme_user_id": 9,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -113,7 +101,6 @@
   "date_end": "2016-07-19",
   "theme": "Скорость",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -122,7 +109,6 @@
   "date_end": "2016-07-26",
   "theme": "Фанфик",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -131,7 +117,6 @@
   "date_end": "2016-08-02",
   "theme": "Косплей",
   "theme_user_id": 1,
-  "win_user_id": 16,
   "description": null
  },
  {
@@ -140,7 +125,6 @@
   "date_end": "2016-08-09",
   "theme": "Дождь",
   "theme_user_id": 1,
-  "win_user_id": 8,
   "description": null
  },
  {
@@ -149,7 +133,6 @@
   "date_end": "2016-08-16",
   "theme": "Кроссовер",
   "theme_user_id": 16,
-  "win_user_id": 10,
   "description": null
  },
  {
@@ -158,7 +141,6 @@
   "date_end": "2016-08-23",
   "theme": "Мечта",
   "theme_user_id": 8,
-  "win_user_id": 18,
   "description": null
  },
  {
@@ -167,7 +149,6 @@
   "date_end": "2016-08-30",
   "theme": "Средневековье",
   "theme_user_id": 10,
-  "win_user_id": 14,
   "description": null
  },
  {
@@ -176,7 +157,6 @@
   "date_end": "2016-09-06",
   "theme": "Селфи своего фан-персонажа с одним из борцов за свободу",
   "theme_user_id": 18,
-  "win_user_id": 19,
   "description": null
  },
  {
@@ -185,7 +165,6 @@
   "date_end": "2016-09-13",
   "theme": "Акватипия",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -194,7 +173,6 @@
   "date_end": "2016-09-20",
   "theme": "Дюны",
   "theme_user_id": 19,
-  "win_user_id": 14,
   "description": null
  },
  {
@@ -203,7 +181,6 @@
   "date_end": "2016-09-27",
   "theme": "Jazz ",
   "theme_user_id": 1,
-  "win_user_id": 9,
   "description": null
  },
  {
@@ -212,7 +189,6 @@
   "date_end": "2016-10-04",
   "theme": "Напильник",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -221,7 +197,6 @@
   "date_end": "2016-10-11",
   "theme": "Дружба",
   "theme_user_id": 9,
-  "win_user_id": 16,
   "description": null
  },
  {
@@ -230,7 +205,6 @@
   "date_end": "2016-10-18",
   "theme": "Клубок",
   "theme_user_id": 1,
-  "win_user_id": 14,
   "description": null
  },
  {
@@ -239,7 +213,6 @@
   "date_end": "2016-10-25",
   "theme": "Первый снег!",
   "theme_user_id": 16,
-  "win_user_id": 8,
   "description": null
  },
  {
@@ -248,7 +221,6 @@
   "date_end": "2016-11-01",
   "theme": "ПАЛОЧКИ",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -257,7 +229,6 @@
   "date_end": "2016-11-08",
   "theme": "Общественный транспорт",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -266,7 +237,6 @@
   "date_end": "2016-11-15",
   "theme": "Путешествие",
   "theme_user_id": 16,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -275,7 +245,6 @@
   "date_end": "2016-11-22",
   "theme": "Хрящ(и)",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -284,7 +253,6 @@
   "date_end": "2016-11-29",
   "theme": "Предновогодняя суета",
   "theme_user_id": 22,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -293,7 +261,6 @@
   "date_end": "2016-12-06",
   "theme": "Музыка",
   "theme_user_id": 16,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -302,7 +269,6 @@
   "date_end": "2016-12-13",
   "theme": "Генеральная уборка",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -311,7 +277,6 @@
   "date_end": "2016-12-20",
   "theme": "Карманный/ая ",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -320,7 +285,6 @@
   "date_end": "2016-12-27",
   "theme": "Отдых",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -329,7 +293,6 @@
   "date_end": "2017-01-03",
   "theme": "КРАЖА",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -338,7 +301,6 @@
   "date_end": "2017-01-10",
   "theme": "Подарки",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -347,7 +309,6 @@
   "date_end": "2017-01-17",
   "theme": "Робот",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -356,7 +317,6 @@
   "date_end": "2017-01-24",
   "theme": "Улыбка",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -365,7 +325,6 @@
   "date_end": "2017-01-31",
   "theme": "рапира такнечестности",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -374,7 +333,6 @@
   "date_end": "2017-02-07",
   "theme": "Эльфийка",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -383,7 +341,6 @@
   "date_end": "2017-02-14",
   "theme": "Эль Наклз!",
   "theme_user_id": 19,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -392,7 +349,6 @@
   "date_end": "2017-02-21",
   "theme": "Приятная неожиданность",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -401,7 +357,6 @@
   "date_end": "2017-02-28",
   "theme": "Злодей",
   "theme_user_id": 1,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -410,7 +365,6 @@
   "date_end": "2017-03-07",
   "theme": "связанные",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -419,7 +373,6 @@
   "date_end": "2017-03-14",
   "theme": "Крылья",
   "theme_user_id": 1,
-  "win_user_id": 16,
   "description": null
  },
  {
@@ -428,7 +381,6 @@
   "date_end": "2017-03-21",
   "theme": "Радуга",
   "theme_user_id": 1,
-  "win_user_id": 8,
   "description": null
  },
  {
@@ -437,7 +389,6 @@
   "date_end": "2017-03-28",
   "theme": "Команда",
   "theme_user_id": 16,
-  "win_user_id": 8,
   "description": null
  },
  {
@@ -446,7 +397,6 @@
   "date_end": "2017-04-04",
   "theme": "бизнес",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -455,7 +405,6 @@
   "date_end": "2017-04-11",
   "theme": "Компьютер",
   "theme_user_id": 8,
-  "win_user_id": 14,
   "description": null
  },
  {
@@ -464,7 +413,6 @@
   "date_end": "2017-04-18",
   "theme": "Мороженое",
   "theme_user_id": 27,
-  "win_user_id": 26,
   "description": null
  },
  {
@@ -473,7 +421,6 @@
   "date_end": "2017-04-25",
   "theme": "Ложка",
   "theme_user_id": 14,
-  "win_user_id": 8,
   "description": null
  },
  {
@@ -482,7 +429,6 @@
   "date_end": "2017-05-02",
   "theme": "Свобода",
   "theme_user_id": 26,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -491,7 +437,6 @@
   "date_end": "2017-05-09",
   "theme": "Боишься ли ты темноты?",
   "theme_user_id": 8,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -500,7 +445,6 @@
   "date_end": "2017-05-16",
   "theme": "День победы",
   "theme_user_id": 27,
-  "win_user_id": null,
   "description": "Особые ограничения: https://sonic-world.ru/forum/topic/23617-/page-10#entry254073865"
  },
  {
@@ -509,7 +453,6 @@
   "date_end": "2017-05-23",
   "theme": "Домохозяйка",
   "theme_user_id": 23,
-  "win_user_id": 16,
   "description": null
  },
  {
@@ -518,7 +461,6 @@
   "date_end": "2017-05-30",
   "theme": "Банан",
   "theme_user_id": 1,
-  "win_user_id": 14,
   "description": null
  },
  {
@@ -527,7 +469,6 @@
   "date_end": "2017-06-06",
   "theme": "Ангел",
   "theme_user_id": 16,
-  "win_user_id": null,
   "description": null
  },
  {
@@ -536,7 +477,6 @@
   "date_end": "2017-06-13",
   "theme": "Унесённые мылом",
   "theme_user_id": 14,
-  "win_user_id": null,
   "description": "?"
  }
 ]

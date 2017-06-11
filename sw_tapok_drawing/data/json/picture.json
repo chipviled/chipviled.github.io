@@ -14,6 +14,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 1,
+  "is_win": 0,
   "created_at": "2017-05-09 04:59:30",
   "updated_at": "2017-05-09 04:59:30"
  },
@@ -32,6 +33,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 2,
+  "is_win": 0,
   "created_at": "2017-05-09 05:03:27",
   "updated_at": "2017-05-09 05:03:27"
  },
@@ -50,6 +52,7 @@
   "keywords": null,
   "vote": 3,
   "iteration_id": 3,
+  "is_win": 0,
   "created_at": "2017-05-09 05:16:45",
   "updated_at": "2017-05-09 05:16:45"
  },
@@ -68,6 +71,7 @@
   "keywords": null,
   "vote": 5,
   "iteration_id": 3,
+  "is_win": 3,
   "created_at": "2017-05-09 05:18:35",
   "updated_at": "2017-05-09 05:18:35"
  },
@@ -86,6 +90,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 3,
+  "is_win": 0,
   "created_at": "2017-05-09 05:19:57",
   "updated_at": "2017-05-09 05:19:57"
  },
@@ -104,6 +109,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 4,
+  "is_win": 9,
   "created_at": "2017-05-09 05:28:35",
   "updated_at": "2017-05-21 06:54:48"
  },
@@ -122,6 +128,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 4,
+  "is_win": 0,
   "created_at": "2017-05-21 06:56:24",
   "updated_at": "2017-05-21 06:56:24"
  },
@@ -140,6 +147,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 4,
+  "is_win": 0,
   "created_at": "2017-05-21 06:58:44",
   "updated_at": "2017-05-21 06:58:44"
  },
@@ -158,6 +166,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 5,
+  "is_win": 0,
   "created_at": "2017-05-21 07:02:50",
   "updated_at": "2017-05-21 07:02:50"
  },
@@ -176,6 +185,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 6,
+  "is_win": 0,
   "created_at": "2017-05-21 07:06:49",
   "updated_at": "2017-05-21 07:06:49"
  },
@@ -194,6 +204,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 7,
+  "is_win": 0,
   "created_at": "2017-05-21 07:12:29",
   "updated_at": "2017-05-21 07:12:29"
  },
@@ -212,6 +223,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 8,
+  "is_win": 0,
   "created_at": "2017-05-21 07:15:49",
   "updated_at": "2017-05-21 07:15:49"
  },
@@ -230,6 +242,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 9,
+  "is_win": 0,
   "created_at": "2017-05-21 07:18:29",
   "updated_at": "2017-05-21 07:18:29"
  },
@@ -248,6 +261,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 10,
+  "is_win": 0,
   "created_at": "2017-05-21 07:22:50",
   "updated_at": "2017-05-21 07:29:46"
  },
@@ -266,6 +280,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 11,
+  "is_win": 0,
   "created_at": "2017-05-21 08:19:13",
   "updated_at": "2017-05-21 08:19:13"
  },
@@ -284,6 +299,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 11,
+  "is_win": 0,
   "created_at": "2017-05-21 08:20:10",
   "updated_at": "2017-05-21 08:20:10"
  },
@@ -302,6 +318,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 12,
+  "is_win": 0,
   "created_at": "2017-05-21 08:23:13",
   "updated_at": "2017-05-21 08:23:13"
  },
@@ -320,6 +337,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 13,
+  "is_win": 0,
   "created_at": "2017-05-21 08:24:48",
   "updated_at": "2017-05-21 08:25:10"
  },
@@ -338,6 +356,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 14,
+  "is_win": 0,
   "created_at": "2017-05-21 08:26:47",
   "updated_at": "2017-05-21 08:26:47"
  },
@@ -356,6 +375,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 15,
+  "is_win": 0,
   "created_at": "2017-05-21 08:35:03",
   "updated_at": "2017-05-21 08:35:03"
  },
@@ -374,6 +394,7 @@
   "keywords": null,
   "vote": 2,
   "iteration_id": 15,
+  "is_win": 0,
   "created_at": "2017-05-21 08:36:52",
   "updated_at": "2017-05-21 08:36:52"
  },
@@ -392,6 +413,7 @@
   "keywords": null,
   "vote": 3,
   "iteration_id": 15,
+  "is_win": 16,
   "created_at": "2017-05-21 08:39:33",
   "updated_at": "2017-05-21 08:39:33"
  },
@@ -410,6 +432,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 15,
+  "is_win": 0,
   "created_at": "2017-05-21 08:41:13",
   "updated_at": "2017-05-21 08:41:13"
  },
@@ -428,6 +451,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 16,
+  "is_win": 0,
   "created_at": "2017-05-21 08:47:06",
   "updated_at": "2017-05-21 08:47:06"
  },
@@ -446,6 +470,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 16,
+  "is_win": 0,
   "created_at": "2017-05-21 08:49:01",
   "updated_at": "2017-05-21 08:49:01"
  },
@@ -464,6 +489,7 @@
   "keywords": null,
   "vote": 2,
   "iteration_id": 16,
+  "is_win": 8,
   "created_at": "2017-05-21 08:50:44",
   "updated_at": "2017-05-21 08:50:44"
  },
@@ -482,6 +508,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 16,
+  "is_win": 0,
   "created_at": "2017-05-21 09:06:17",
   "updated_at": "2017-05-21 09:06:17"
  },
@@ -500,6 +527,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 16,
+  "is_win": 0,
   "created_at": "2017-05-21 09:07:58",
   "updated_at": "2017-05-21 09:07:58"
  },
@@ -518,6 +546,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 16,
+  "is_win": 0,
   "created_at": "2017-05-21 09:09:47",
   "updated_at": "2017-05-21 09:09:47"
  },
@@ -536,6 +565,7 @@
   "keywords": null,
   "vote": 2,
   "iteration_id": 17,
+  "is_win": 0,
   "created_at": "2017-05-21 09:16:19",
   "updated_at": "2017-05-21 09:16:19"
  },
@@ -554,6 +584,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 17,
+  "is_win": 0,
   "created_at": "2017-05-21 09:17:33",
   "updated_at": "2017-05-21 09:17:33"
  },
@@ -572,6 +603,7 @@
   "keywords": null,
   "vote": 3,
   "iteration_id": 17,
+  "is_win": 10,
   "created_at": "2017-05-21 09:19:56",
   "updated_at": "2017-05-21 09:19:56"
  },
@@ -590,6 +622,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 17,
+  "is_win": 0,
   "created_at": "2017-05-21 09:21:00",
   "updated_at": "2017-05-21 09:21:00"
  },
@@ -608,6 +641,7 @@
   "keywords": null,
   "vote": 6,
   "iteration_id": 18,
+  "is_win": 18,
   "created_at": "2017-05-21 09:24:36",
   "updated_at": "2017-05-21 09:24:36"
  },
@@ -626,6 +660,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 18,
+  "is_win": 0,
   "created_at": "2017-05-21 09:26:04",
   "updated_at": "2017-05-21 09:26:04"
  },
@@ -644,6 +679,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 18,
+  "is_win": 0,
   "created_at": "2017-05-21 09:27:24",
   "updated_at": "2017-05-21 09:27:24"
  },
@@ -662,6 +698,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 19,
+  "is_win": 0,
   "created_at": "2017-05-21 09:32:05",
   "updated_at": "2017-05-21 09:35:46"
  },
@@ -680,6 +717,7 @@
   "keywords": null,
   "vote": 5,
   "iteration_id": 19,
+  "is_win": 14,
   "created_at": "2017-05-21 09:38:04",
   "updated_at": "2017-05-21 09:38:04"
  },
@@ -698,6 +736,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 19,
+  "is_win": 0,
   "created_at": "2017-05-21 09:39:34",
   "updated_at": "2017-05-21 09:39:34"
  },
@@ -716,6 +755,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 20,
+  "is_win": 0,
   "created_at": "2017-05-21 09:42:57",
   "updated_at": "2017-05-21 09:42:57"
  },
@@ -734,6 +774,7 @@
   "keywords": null,
   "vote": 3,
   "iteration_id": 20,
+  "is_win": 0,
   "created_at": "2017-05-21 09:45:45",
   "updated_at": "2017-05-21 09:46:50"
  },
@@ -752,6 +793,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 20,
+  "is_win": 19,
   "created_at": "2017-05-21 09:49:40",
   "updated_at": "2017-05-21 09:49:40"
  },
@@ -770,6 +812,7 @@
   "keywords": null,
   "vote": 2,
   "iteration_id": 20,
+  "is_win": 0,
   "created_at": "2017-05-21 09:51:05",
   "updated_at": "2017-05-21 09:51:05"
  },
@@ -788,6 +831,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 20,
+  "is_win": 0,
   "created_at": "2017-05-21 09:52:52",
   "updated_at": "2017-05-21 09:52:52"
  },
@@ -806,6 +850,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 21,
+  "is_win": 0,
   "created_at": "2017-05-21 09:56:04",
   "updated_at": "2017-05-21 09:56:04"
  },
@@ -824,6 +869,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 22,
+  "is_win": 0,
   "created_at": "2017-05-21 10:00:31",
   "updated_at": "2017-05-21 10:00:31"
  },
@@ -842,6 +888,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 22,
+  "is_win": 14,
   "created_at": "2017-05-21 10:03:06",
   "updated_at": "2017-05-21 10:03:06"
  },
@@ -860,6 +907,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 22,
+  "is_win": 0,
   "created_at": "2017-05-21 10:05:28",
   "updated_at": "2017-05-21 10:05:28"
  },
@@ -878,6 +926,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 23,
+  "is_win": 0,
   "created_at": "2017-05-21 10:10:25",
   "updated_at": "2017-05-21 10:10:25"
  },
@@ -896,6 +945,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 23,
+  "is_win": 0,
   "created_at": "2017-05-21 10:14:48",
   "updated_at": "2017-05-21 10:14:48"
  },
@@ -914,6 +964,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 23,
+  "is_win": 9,
   "created_at": "2017-05-21 10:16:53",
   "updated_at": "2017-05-21 10:16:53"
  },
@@ -932,6 +983,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 23,
+  "is_win": 0,
   "created_at": "2017-05-21 10:18:07",
   "updated_at": "2017-05-21 10:18:07"
  },
@@ -950,6 +1002,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 23,
+  "is_win": 0,
   "created_at": "2017-05-21 10:19:10",
   "updated_at": "2017-05-21 10:19:10"
  },
@@ -968,6 +1021,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 24,
+  "is_win": 0,
   "created_at": "2017-05-21 10:21:41",
   "updated_at": "2017-05-21 10:21:41"
  },
@@ -986,6 +1040,7 @@
   "keywords": null,
   "vote": 2,
   "iteration_id": 25,
+  "is_win": 0,
   "created_at": "2017-05-21 10:25:06",
   "updated_at": "2017-05-21 10:27:55"
  },
@@ -1004,6 +1059,7 @@
   "keywords": null,
   "vote": 3,
   "iteration_id": 25,
+  "is_win": 16,
   "created_at": "2017-05-21 10:29:28",
   "updated_at": "2017-05-21 10:29:28"
  },
@@ -1022,6 +1078,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 25,
+  "is_win": 0,
   "created_at": "2017-05-21 10:30:44",
   "updated_at": "2017-05-21 10:30:44"
  },
@@ -1040,6 +1097,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 26,
+  "is_win": 0,
   "created_at": "2017-05-21 10:34:02",
   "updated_at": "2017-05-21 10:34:02"
  },
@@ -1058,6 +1116,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 26,
+  "is_win": 14,
   "created_at": "2017-05-21 10:36:11",
   "updated_at": "2017-05-21 10:36:11"
  },
@@ -1076,6 +1135,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 26,
+  "is_win": 0,
   "created_at": "2017-05-21 10:37:40",
   "updated_at": "2017-05-21 10:37:40"
  },
@@ -1094,6 +1154,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 27,
+  "is_win": 0,
   "created_at": "2017-05-21 10:40:53",
   "updated_at": "2017-05-21 10:40:53"
  },
@@ -1112,6 +1173,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 27,
+  "is_win": 0,
   "created_at": "2017-05-21 10:45:33",
   "updated_at": "2017-05-21 10:45:33"
  },
@@ -1130,6 +1192,7 @@
   "keywords": null,
   "vote": 5,
   "iteration_id": 27,
+  "is_win": 8,
   "created_at": "2017-05-21 10:47:57",
   "updated_at": "2017-05-21 10:48:09"
  },
@@ -1148,6 +1211,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 27,
+  "is_win": 0,
   "created_at": "2017-05-21 10:49:35",
   "updated_at": "2017-05-21 10:49:35"
  },
@@ -1166,6 +1230,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 28,
+  "is_win": 0,
   "created_at": "2017-05-21 10:52:28",
   "updated_at": "2017-05-21 10:52:28"
  },
@@ -1184,6 +1249,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 28,
+  "is_win": 0,
   "created_at": "2017-05-21 10:53:23",
   "updated_at": "2017-05-21 10:53:41"
  },
@@ -1202,6 +1268,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 29,
+  "is_win": 0,
   "created_at": "2017-05-21 10:56:21",
   "updated_at": "2017-05-21 10:56:21"
  },
@@ -1220,6 +1287,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 29,
+  "is_win": 0,
   "created_at": "2017-05-21 10:57:06",
   "updated_at": "2017-05-21 10:57:06"
  },
@@ -1238,6 +1306,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 30,
+  "is_win": 0,
   "created_at": "2017-05-23 10:51:15",
   "updated_at": "2017-05-23 10:51:15"
  },
@@ -1256,6 +1325,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 31,
+  "is_win": 0,
   "created_at": "2017-05-23 10:53:16",
   "updated_at": "2017-05-23 10:53:16"
  },
@@ -1274,6 +1344,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 31,
+  "is_win": 0,
   "created_at": "2017-05-23 10:54:05",
   "updated_at": "2017-05-23 10:54:05"
  },
@@ -1292,6 +1363,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 32,
+  "is_win": 0,
   "created_at": "2017-05-23 10:56:36",
   "updated_at": "2017-05-23 10:56:36"
  },
@@ -1310,6 +1382,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 32,
+  "is_win": 0,
   "created_at": "2017-05-23 10:57:15",
   "updated_at": "2017-05-23 10:57:15"
  },
@@ -1328,6 +1401,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 33,
+  "is_win": 0,
   "created_at": "2017-05-23 10:59:32",
   "updated_at": "2017-05-23 10:59:32"
  },
@@ -1346,6 +1420,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 33,
+  "is_win": 0,
   "created_at": "2017-05-23 11:00:08",
   "updated_at": "2017-05-23 11:00:08"
  },
@@ -1364,6 +1439,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 34,
+  "is_win": 0,
   "created_at": "2017-05-23 11:01:43",
   "updated_at": "2017-05-23 11:01:43"
  },
@@ -1382,6 +1458,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 34,
+  "is_win": 0,
   "created_at": "2017-05-23 11:02:20",
   "updated_at": "2017-05-23 11:02:20"
  },
@@ -1400,6 +1477,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 35,
+  "is_win": 0,
   "created_at": "2017-05-23 11:04:07",
   "updated_at": "2017-05-23 11:04:07"
  },
@@ -1418,6 +1496,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 36,
+  "is_win": 0,
   "created_at": "2017-05-23 11:05:48",
   "updated_at": "2017-05-23 11:05:48"
  },
@@ -1436,6 +1515,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 36,
+  "is_win": 0,
   "created_at": "2017-05-23 11:06:25",
   "updated_at": "2017-05-23 11:06:25"
  },
@@ -1454,6 +1534,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 37,
+  "is_win": 0,
   "created_at": "2017-05-23 11:08:43",
   "updated_at": "2017-05-23 11:08:43"
  },
@@ -1472,6 +1553,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 37,
+  "is_win": 0,
   "created_at": "2017-05-23 11:09:19",
   "updated_at": "2017-05-23 11:09:19"
  },
@@ -1490,6 +1572,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 38,
+  "is_win": 0,
   "created_at": "2017-05-24 10:30:36",
   "updated_at": "2017-05-24 10:33:05"
  },
@@ -1508,6 +1591,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 39,
+  "is_win": 0,
   "created_at": "2017-05-24 10:32:53",
   "updated_at": "2017-05-24 10:32:53"
  },
@@ -1526,6 +1610,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 40,
+  "is_win": 0,
   "created_at": "2017-05-24 10:35:10",
   "updated_at": "2017-05-24 10:35:10"
  },
@@ -1544,6 +1629,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 40,
+  "is_win": 0,
   "created_at": "2017-05-24 10:36:10",
   "updated_at": "2017-05-24 10:36:10"
  },
@@ -1562,6 +1648,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 41,
+  "is_win": 0,
   "created_at": "2017-05-24 10:39:49",
   "updated_at": "2017-05-24 10:39:49"
  },
@@ -1580,6 +1667,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 41,
+  "is_win": 0,
   "created_at": "2017-05-24 10:40:34",
   "updated_at": "2017-05-24 10:40:34"
  },
@@ -1598,6 +1686,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 42,
+  "is_win": 0,
   "created_at": "2017-05-24 10:43:03",
   "updated_at": "2017-05-24 10:43:03"
  },
@@ -1616,6 +1705,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 42,
+  "is_win": 0,
   "created_at": "2017-05-24 10:44:03",
   "updated_at": "2017-05-24 10:44:03"
  },
@@ -1634,6 +1724,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 42,
+  "is_win": 0,
   "created_at": "2017-05-24 10:44:47",
   "updated_at": "2017-05-24 10:44:47"
  },
@@ -1652,6 +1743,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 43,
+  "is_win": 0,
   "created_at": "2017-05-24 10:46:55",
   "updated_at": "2017-05-24 10:46:55"
  },
@@ -1670,6 +1762,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 43,
+  "is_win": 0,
   "created_at": "2017-05-24 10:47:55",
   "updated_at": "2017-05-24 10:47:55"
  },
@@ -1688,6 +1781,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 44,
+  "is_win": 0,
   "created_at": "2017-05-24 10:50:01",
   "updated_at": "2017-05-24 10:50:01"
  },
@@ -1706,6 +1800,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 45,
+  "is_win": 0,
   "created_at": "2017-05-24 10:51:47",
   "updated_at": "2017-05-24 10:51:47"
  },
@@ -1724,6 +1819,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 45,
+  "is_win": 0,
   "created_at": "2017-05-24 10:52:25",
   "updated_at": "2017-05-24 10:52:25"
  },
@@ -1742,6 +1838,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 46,
+  "is_win": 0,
   "created_at": "2017-05-24 10:54:21",
   "updated_at": "2017-05-24 10:54:21"
  },
@@ -1760,6 +1857,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 47,
+  "is_win": 0,
   "created_at": "2017-05-24 10:58:21",
   "updated_at": "2017-05-24 10:58:21"
  },
@@ -1778,6 +1876,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 47,
+  "is_win": 16,
   "created_at": "2017-05-24 11:00:10",
   "updated_at": "2017-05-24 11:01:53"
  },
@@ -1796,6 +1895,7 @@
   "keywords": null,
   "vote": 3,
   "iteration_id": 47,
+  "is_win": 0,
   "created_at": "2017-05-24 11:03:11",
   "updated_at": "2017-05-24 11:03:11"
  },
@@ -1814,6 +1914,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 47,
+  "is_win": 0,
   "created_at": "2017-05-24 11:04:33",
   "updated_at": "2017-05-24 11:04:33"
  },
@@ -1832,6 +1933,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 48,
+  "is_win": 8,
   "created_at": "2017-05-24 11:08:49",
   "updated_at": "2017-05-24 11:11:41"
  },
@@ -1850,6 +1952,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 48,
+  "is_win": 0,
   "created_at": "2017-05-24 11:10:07",
   "updated_at": "2017-05-24 11:10:07"
  },
@@ -1868,6 +1971,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 48,
+  "is_win": 0,
   "created_at": "2017-05-24 11:12:25",
   "updated_at": "2017-05-24 11:12:25"
  },
@@ -1886,6 +1990,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 49,
+  "is_win": 0,
   "created_at": "2017-05-24 11:17:07",
   "updated_at": "2017-05-24 11:17:07"
  },
@@ -1904,6 +2009,7 @@
   "keywords": null,
   "vote": 5,
   "iteration_id": 49,
+  "is_win": 8,
   "created_at": "2017-05-24 11:18:36",
   "updated_at": "2017-05-24 11:18:36"
  },
@@ -1922,6 +2028,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 49,
+  "is_win": 0,
   "created_at": "2017-05-24 11:20:05",
   "updated_at": "2017-05-24 11:20:05"
  },
@@ -1940,6 +2047,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 49,
+  "is_win": 0,
   "created_at": "2017-05-24 11:21:18",
   "updated_at": "2017-05-24 11:21:18"
  },
@@ -1958,6 +2066,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 49,
+  "is_win": 0,
   "created_at": "2017-05-24 11:23:14",
   "updated_at": "2017-05-24 11:23:14"
  },
@@ -1976,6 +2085,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 50,
+  "is_win": 0,
   "created_at": "2017-05-24 11:25:59",
   "updated_at": "2017-05-24 11:25:59"
  },
@@ -1994,6 +2104,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 50,
+  "is_win": 0,
   "created_at": "2017-05-24 11:26:49",
   "updated_at": "2017-05-24 11:26:49"
  },
@@ -2012,6 +2123,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 51,
+  "is_win": 14,
   "created_at": "2017-05-25 10:33:20",
   "updated_at": "2017-05-25 10:33:34"
  },
@@ -2030,6 +2142,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 51,
+  "is_win": 0,
   "created_at": "2017-05-25 10:34:42",
   "updated_at": "2017-05-25 10:34:42"
  },
@@ -2048,6 +2161,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 51,
+  "is_win": 0,
   "created_at": "2017-05-25 10:36:00",
   "updated_at": "2017-05-25 10:36:00"
  },
@@ -2066,6 +2180,7 @@
   "keywords": null,
   "vote": 2,
   "iteration_id": 52,
+  "is_win": 26,
   "created_at": "2017-05-25 10:38:53",
   "updated_at": "2017-05-25 10:38:53"
  },
@@ -2084,6 +2199,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 52,
+  "is_win": 0,
   "created_at": "2017-05-25 10:40:03",
   "updated_at": "2017-05-25 10:40:03"
  },
@@ -2102,6 +2218,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 52,
+  "is_win": 0,
   "created_at": "2017-05-25 10:40:56",
   "updated_at": "2017-05-25 10:40:56"
  },
@@ -2120,6 +2237,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 52,
+  "is_win": 0,
   "created_at": "2017-05-25 10:42:26",
   "updated_at": "2017-05-25 10:42:26"
  },
@@ -2138,6 +2256,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 53,
+  "is_win": 0,
   "created_at": "2017-05-25 10:45:21",
   "updated_at": "2017-05-25 10:45:21"
  },
@@ -2156,6 +2275,7 @@
   "keywords": null,
   "vote": 5,
   "iteration_id": 53,
+  "is_win": 8,
   "created_at": "2017-05-25 10:46:45",
   "updated_at": "2017-05-25 10:46:45"
  },
@@ -2174,6 +2294,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 53,
+  "is_win": 0,
   "created_at": "2017-05-25 10:47:40",
   "updated_at": "2017-05-25 10:47:40"
  },
@@ -2192,6 +2313,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 54,
+  "is_win": 0,
   "created_at": "2017-05-25 10:50:48",
   "updated_at": "2017-05-25 10:50:48"
  },
@@ -2210,6 +2332,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 54,
+  "is_win": 0,
   "created_at": "2017-05-25 10:51:37",
   "updated_at": "2017-05-25 10:51:37"
  },
@@ -2228,6 +2351,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 55,
+  "is_win": 0,
   "created_at": "2017-05-25 10:53:57",
   "updated_at": "2017-05-25 10:53:57"
  },
@@ -2246,6 +2370,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 55,
+  "is_win": 0,
   "created_at": "2017-05-25 10:54:41",
   "updated_at": "2017-05-25 10:54:41"
  },
@@ -2264,6 +2389,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 56,
+  "is_win": 0,
   "created_at": "2017-05-25 10:56:31",
   "updated_at": "2017-05-25 10:56:31"
  },
@@ -2282,6 +2408,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 57,
+  "is_win": 0,
   "created_at": "2017-05-25 11:00:36",
   "updated_at": "2017-05-25 11:00:36"
  },
@@ -2300,6 +2427,7 @@
   "keywords": null,
   "vote": 5,
   "iteration_id": 57,
+  "is_win": 16,
   "created_at": "2017-05-25 11:01:24",
   "updated_at": "2017-06-07 10:48:15"
  },
@@ -2318,6 +2446,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 57,
+  "is_win": 0,
   "created_at": "2017-05-25 11:02:05",
   "updated_at": "2017-05-25 11:02:05"
  },
@@ -2336,6 +2465,7 @@
   "keywords": null,
   "vote": 1,
   "iteration_id": 58,
+  "is_win": 0,
   "created_at": "2017-06-07 10:50:53",
   "updated_at": "2017-06-07 10:50:53"
  },
@@ -2354,6 +2484,7 @@
   "keywords": null,
   "vote": 4,
   "iteration_id": 58,
+  "is_win": 14,
   "created_at": "2017-06-07 10:53:04",
   "updated_at": "2017-06-07 10:53:04"
  },
@@ -2372,6 +2503,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 58,
+  "is_win": 0,
   "created_at": "2017-06-07 10:55:52",
   "updated_at": "2017-06-07 10:55:52"
  },
@@ -2390,6 +2522,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 58,
+  "is_win": 0,
   "created_at": "2017-06-07 10:57:09",
   "updated_at": "2017-06-07 10:57:09"
  },
@@ -2408,6 +2541,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 59,
+  "is_win": 0,
   "created_at": "2017-06-07 10:59:57",
   "updated_at": "2017-06-07 10:59:57"
  },
@@ -2426,6 +2560,7 @@
   "keywords": null,
   "vote": 0,
   "iteration_id": 59,
+  "is_win": 0,
   "created_at": "2017-06-07 11:01:17",
   "updated_at": "2017-06-07 11:01:17"
  }
