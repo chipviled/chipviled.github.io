@@ -1244,14 +1244,14 @@
   "file_size": null,
   "pict_width": 698,
   "pict_height": 629,
-  "is_voted": 1,
+  "is_voted": 0,
   "user_id": 1,
   "keywords": null,
   "vote": 0,
   "iteration_id": 28,
   "is_win": 0,
   "created_at": "2017-05-21 10:53:23",
-  "updated_at": "2017-05-21 10:53:41"
+  "updated_at": "2017-06-15 11:41:40"
  },
  {
   "id": 67,
@@ -2563,5 +2563,24 @@
   "is_win": 0,
   "created_at": "2017-06-07 11:01:17",
   "updated_at": "2017-06-07 11:01:17"
+ },
+ {
+  "id": 136,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2017-06",
+  "file_name": "1497559097065_1.png",
+  "file_size": null,
+  "pict_width": 693,
+  "pict_height": 646,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 60,
+  "is_win": 0,
+  "created_at": "2017-06-15 11:38:17",
+  "updated_at": "2017-06-15 11:38:17"
  }
 ]

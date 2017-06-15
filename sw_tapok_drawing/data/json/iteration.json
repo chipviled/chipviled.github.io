@@ -477,6 +477,14 @@
   "date_end": "2017-06-13",
   "theme": "Унесённые мылом",
   "theme_user_id": 14,
-  "description": "?"
+  "description": null
+ },
+ {
+  "id": 61,
+  "date_begin": "2017-06-13",
+  "date_end": "2017-06-20",
+  "theme": "Cannot hide",
+  "theme_user_id": 14,
+  "description": "https://drive.google.com/file/d/0B864IEVSDMy-YW4zOTNJeDlneFU/view?usp=drivesdk"
  }
 ]
