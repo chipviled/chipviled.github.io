@@ -486,5 +486,13 @@
   "theme": "Cannot hide",
   "theme_user_id": 14,
   "description": "https://drive.google.com/file/d/0B864IEVSDMy-YW4zOTNJeDlneFU/view?usp=drivesdk"
+ },
+ {
+  "id": 62,
+  "date_begin": "2017-06-20",
+  "date_end": "2017-06-27",
+  "theme": "Угроза",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
