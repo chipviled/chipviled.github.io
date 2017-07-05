@@ -30,5 +30,17 @@
  {
   "user_id": 1,
   "achivement_id": 26
+ },
+ {
+  "user_id": 2,
+  "achivement_id": 8
+ },
+ {
+  "user_id": 2,
+  "achivement_id": 14
+ },
+ {
+  "user_id": 1,
+  "achivement_id": 23
  }
 ]
