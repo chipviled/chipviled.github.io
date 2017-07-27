@@ -518,5 +518,21 @@
   "theme": "Пляж",
   "theme_user_id": 31,
   "description": null
+ },
+ {
+  "id": 66,
+  "date_begin": "2017-07-18",
+  "date_end": "2017-08-25",
+  "theme": "Луна",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 67,
+  "date_begin": "2017-07-25",
+  "date_end": "2017-08-01",
+  "theme": "Интернет",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
