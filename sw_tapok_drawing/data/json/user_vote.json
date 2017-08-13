@@ -490,5 +490,57 @@
  {
   "user_id": 15,
   "vote_id": 139
+ },
+ {
+  "user_id": 26,
+  "vote_id": 148
+ },
+ {
+  "user_id": 8,
+  "vote_id": 148
+ },
+ {
+  "user_id": 9,
+  "vote_id": 148
+ },
+ {
+  "user_id": 33,
+  "vote_id": 146
+ },
+ {
+  "user_id": 1,
+  "vote_id": 146
+ },
+ {
+  "user_id": 27,
+  "vote_id": 151
+ },
+ {
+  "user_id": 1,
+  "vote_id": 151
+ },
+ {
+  "user_id": 8,
+  "vote_id": 152
+ },
+ {
+  "user_id": 34,
+  "vote_id": 152
+ },
+ {
+  "user_id": 9,
+  "vote_id": 153
+ },
+ {
+  "user_id": 28,
+  "vote_id": 154
+ },
+ {
+  "user_id": 35,
+  "vote_id": 154
+ },
+ {
+  "user_id": 10,
+  "vote_id": 157
  }
 ]

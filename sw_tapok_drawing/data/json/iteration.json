@@ -533,6 +533,22 @@
   "date_end": "2017-08-01",
   "theme": "Интернет",
   "theme_user_id": 1,
+  "description": "Победитель определен по последнему голосовавшему."
+ },
+ {
+  "id": 68,
+  "date_begin": "2017-08-01",
+  "date_end": "2017-08-08",
+  "theme": "Шапочка из фольги",
+  "theme_user_id": 10,
+  "description": null
+ },
+ {
+  "id": 69,
+  "date_begin": "2017-08-08",
+  "date_end": "2017-08-15",
+  "theme": "Миллиардеры",
+  "theme_user_id": 2,
   "description": null
  }
 ]
