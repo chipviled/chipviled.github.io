@@ -550,5 +550,29 @@
   "theme": "Миллиардеры",
   "theme_user_id": 2,
   "description": null
+ },
+ {
+  "id": 70,
+  "date_begin": "2017-08-15",
+  "date_end": "2017-08-22",
+  "theme": "Спорт",
+  "theme_user_id": 28,
+  "description": null
+ },
+ {
+  "id": 71,
+  "date_begin": "2017-08-22",
+  "date_end": "2017-08--29",
+  "theme": "До нашей эры",
+  "theme_user_id": 28,
+  "description": null
+ },
+ {
+  "id": 72,
+  "date_begin": "2017-08-29",
+  "date_end": "2017-09-05",
+  "theme": "Очки",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
