@@ -574,5 +574,21 @@
   "theme": "Очки",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 73,
+  "date_begin": "2017-09-05",
+  "date_end": "2017-09-12",
+  "theme": "Freedom Planet",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 74,
+  "date_begin": "2017-09-12",
+  "date_end": "2017-09-19",
+  "theme": "Всех их вместе соберём!",
+  "theme_user_id": 8,
+  "description": null
  }
 ]
