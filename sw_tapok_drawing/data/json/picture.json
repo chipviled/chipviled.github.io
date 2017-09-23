@@ -3247,5 +3247,24 @@
   "is_win": 0,
   "created_at": "2017-09-17 10:54:32",
   "updated_at": "2017-09-17 10:54:32"
+ },
+ {
+  "id": 172,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2017-09",
+  "file_name": "1506199967003_1.png",
+  "file_size": null,
+  "pict_width": 706,
+  "pict_height": 193,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 74,
+  "is_win": 0,
+  "created_at": "2017-09-23 11:52:47",
+  "updated_at": "2017-09-23 11:52:47"
  }
 ]
