@@ -606,5 +606,37 @@
   "theme": "Карандаши",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 77,
+  "date_begin": "2017-10-03",
+  "date_end": "2017-10-10",
+  "theme": "Кактус",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 78,
+  "date_begin": "2017-10-10",
+  "date_end": "2017-10-17",
+  "theme": "Rainbow in the Sky",
+  "theme_user_id": 1,
+  "description": "https://www.youtube.com/watch?v=4SzMueXs_FU"
+ },
+ {
+  "id": 79,
+  "date_begin": "2017-10-17",
+  "date_end": "2017-10-24",
+  "theme": "Звезда",
+  "theme_user_id": 8,
+  "description": null
+ },
+ {
+  "id": 80,
+  "date_begin": "2017-10-24",
+  "date_end": "2017-10-31",
+  "theme": "Halloween",
+  "theme_user_id": 28,
+  "description": null
  }
 ]
