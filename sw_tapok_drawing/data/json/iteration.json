@@ -662,5 +662,21 @@
   "theme": "Тайный агент",
   "theme_user_id": 28,
   "description": null
+ },
+ {
+  "id": 84,
+  "date_begin": "2017-11-21",
+  "date_end": "2017-11-28",
+  "theme": "Пицца",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 85,
+  "date_begin": "2017-11-28",
+  "date_end": "2017-12-05",
+  "theme": "Книга",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
