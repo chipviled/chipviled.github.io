@@ -3741,5 +3741,24 @@
   "is_win": 0,
   "created_at": "2017-12-05 09:26:04",
   "updated_at": "2017-12-05 09:26:04"
+ },
+ {
+  "id": 198,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2017-12",
+  "file_name": "1513113401254_1.png",
+  "file_size": null,
+  "pict_width": 472,
+  "pict_height": 532,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 86,
+  "is_win": 0,
+  "created_at": "2017-12-12 11:16:41",
+  "updated_at": "2017-12-12 11:16:41"
  }
 ]

@@ -678,5 +678,21 @@
   "theme": "Книга",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 86,
+  "date_begin": "2017-12-05",
+  "date_end": "2017-12-12",
+  "theme": "Братья",
+  "theme_user_id": 39,
+  "description": null
+ },
+ {
+  "id": 87,
+  "date_begin": "2017-12-12",
+  "date_end": "2017-12-19",
+  "theme": "Рождественская омела",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
