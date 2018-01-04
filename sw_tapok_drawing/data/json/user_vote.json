@@ -606,5 +606,17 @@
  {
   "user_id": 15,
   "vote_id": 194
+ },
+ {
+  "user_id": 10,
+  "vote_id": 200
+ },
+ {
+  "user_id": 39,
+  "vote_id": 200
+ },
+ {
+  "user_id": 8,
+  "vote_id": 200
  }
 ]
