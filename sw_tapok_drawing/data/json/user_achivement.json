@@ -62,5 +62,9 @@
  {
   "user_id": 2,
   "achivement_id": 1
+ },
+ {
+  "user_id": 40,
+  "achivement_id": 1
  }
 ]

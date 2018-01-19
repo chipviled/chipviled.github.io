@@ -618,5 +618,17 @@
  {
   "user_id": 8,
   "vote_id": 200
+ },
+ {
+  "user_id": 28,
+  "vote_id": 204
+ },
+ {
+  "user_id": 8,
+  "vote_id": 204
+ },
+ {
+  "user_id": 1,
+  "vote_id": 204
  }
 ]
