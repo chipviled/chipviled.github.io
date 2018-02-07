@@ -750,5 +750,13 @@
   "theme": "Кино",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 95,
+  "date_begin": "2018-02-06",
+  "date_end": "2018-02-13",
+  "theme": "Свет",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
