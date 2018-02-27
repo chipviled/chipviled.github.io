@@ -774,5 +774,13 @@
   "theme": "Торт",
   "theme_user_id": 41,
   "description": null
+ },
+ {
+  "id": 98,
+  "date_begin": "2018-02-27",
+  "date_end": "2018-03-06",
+  "theme": "События прошлой ночи",
+  "theme_user_id": 8,
+  "description": null
  }
 ]
