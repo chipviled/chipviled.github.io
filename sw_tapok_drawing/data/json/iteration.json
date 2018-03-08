@@ -782,5 +782,13 @@
   "theme": "События прошлой ночи",
   "theme_user_id": 8,
   "description": null
+ },
+ {
+  "id": 99,
+  "date_begin": "2018-03-06",
+  "date_end": "2018-03-13",
+  "theme": "Одуванчик",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
