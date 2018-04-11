@@ -822,5 +822,13 @@
   "theme": "Хвост",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 104,
+  "date_begin": "2018-04-10",
+  "date_end": "2018-04-17",
+  "theme": "Нет дыма без огня",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
