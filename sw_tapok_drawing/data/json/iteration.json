@@ -870,5 +870,21 @@
   "theme": "Бадники",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 110,
+  "date_begin": "2018-05-22",
+  "date_end": "2018-05-29",
+  "theme": "Микрофон",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 111,
+  "date_begin": "2018-05-29",
+  "date_end": "2018-06-05",
+  "theme": "Металл",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
