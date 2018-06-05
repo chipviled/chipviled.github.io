@@ -4387,5 +4387,24 @@
   "is_win": 0,
   "created_at": "2018-05-29 11:31:06",
   "updated_at": "2018-05-29 11:31:06"
+ },
+ {
+  "id": 232,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2018-06",
+  "file_name": "1528228849811_1.png",
+  "file_size": null,
+  "pict_width": 506,
+  "pict_height": 660,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 111,
+  "is_win": 0,
+  "created_at": "2018-06-05 11:00:50",
+  "updated_at": "2018-06-05 11:00:50"
  }
 ]
