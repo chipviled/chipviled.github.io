@@ -926,5 +926,13 @@
   "theme": "Железная дорога",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 117,
+  "date_begin": "2018-07-10",
+  "date_end": "2018-07-17",
+  "theme": "Забор",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
