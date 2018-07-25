@@ -934,5 +934,21 @@
   "theme": "Забор",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 118,
+  "date_begin": "2018-07-17",
+  "date_end": "2018-07-24",
+  "theme": "Шахта",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 119,
+  "date_begin": "2018-07-24",
+  "date_end": "2018-07-31",
+  "theme": "Зефир",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
