@@ -950,5 +950,29 @@
   "theme": "Зефир",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 120,
+  "date_begin": "2018-07-31",
+  "date_end": "2018-08-07",
+  "theme": "Кот с лампой",
+  "theme_user_id": 1,
+  "description": null
+ },
+ {
+  "id": 121,
+  "date_begin": "2018-08-07",
+  "date_end": "2018-08-14",
+  "theme": "Тачку на прокачку",
+  "theme_user_id": 8,
+  "description": null
+ },
+ {
+  "id": 122,
+  "date_begin": "2018-08-14",
+  "date_end": "2018-08-21",
+  "theme": "Грибы",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
