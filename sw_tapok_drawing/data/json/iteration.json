@@ -982,5 +982,13 @@
   "theme": "Топор",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 124,
+  "date_begin": "2018-08-28",
+  "date_end": "2018-09-04",
+  "theme": "How bad can I be?",
+  "theme_user_id": 1,
+  "description": "https://www.youtube.com/watch?v=W_HUdf89hI8"
  }
 ]
