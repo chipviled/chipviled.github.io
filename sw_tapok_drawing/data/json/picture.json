@@ -4710,5 +4710,24 @@
   "is_win": 0,
   "created_at": "2018-09-04 10:37:24",
   "updated_at": "2018-09-04 10:37:24"
+ },
+ {
+  "id": 249,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2018-09",
+  "file_name": "1536696034045_1.png",
+  "file_size": null,
+  "pict_width": 816,
+  "pict_height": 548,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 125,
+  "is_win": 0,
+  "created_at": "2018-09-11 11:00:34",
+  "updated_at": "2018-09-11 11:00:34"
  }
 ]
