@@ -1014,5 +1014,13 @@
   "theme": "Сладости",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 128,
+  "date_begin": "2018-09-25",
+  "date_end": "2018-10-02",
+  "theme": "Удача",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
