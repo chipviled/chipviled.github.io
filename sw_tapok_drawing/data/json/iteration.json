@@ -1030,5 +1030,13 @@
   "theme": "Домашний питомец",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 130,
+  "date_begin": "2018-10-09",
+  "date_end": "2018-10-16",
+  "theme": "Лестница",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
