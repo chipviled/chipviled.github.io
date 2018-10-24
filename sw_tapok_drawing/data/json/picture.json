@@ -4824,5 +4824,24 @@
   "is_win": 0,
   "created_at": "2018-10-18 11:06:00",
   "updated_at": "2018-10-18 11:06:00"
+ },
+ {
+  "id": 255,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2018-10",
+  "file_name": "1540411942462_1.jpg",
+  "file_size": null,
+  "pict_width": 805,
+  "pict_height": 819,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 131,
+  "is_win": 0,
+  "created_at": "2018-10-24 11:12:22",
+  "updated_at": "2018-10-24 11:12:22"
  }
 ]
