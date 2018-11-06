@@ -1054,5 +1054,21 @@
   "theme": "Яблоко",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 133,
+  "date_begin": "2018-10-30",
+  "date_end": "2018-11-06",
+  "theme": "Хэллоуин",
+  "theme_user_id": 15,
+  "description": null
+ },
+ {
+  "id": 134,
+  "date_begin": "2018-11-06",
+  "date_end": "2018-11-13",
+  "theme": "Кубики",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
