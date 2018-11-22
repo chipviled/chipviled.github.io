@@ -642,5 +642,17 @@
  {
   "user_id": 1,
   "vote_id": 225
+ },
+ {
+  "user_id": 40,
+  "vote_id": 259
+ },
+ {
+  "user_id": 42,
+  "vote_id": 259
+ },
+ {
+  "user_id": 43,
+  "vote_id": 260
  }
 ]
