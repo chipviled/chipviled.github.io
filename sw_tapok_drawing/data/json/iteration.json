@@ -1110,5 +1110,13 @@
   "theme": "Растение",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 140,
+  "date_begin": "2018-12-18",
+  "date_end": "2018-12-25",
+  "theme": "Игрушка",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
