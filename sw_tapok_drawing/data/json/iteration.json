@@ -1126,5 +1126,13 @@
   "theme": "Календарь",
   "theme_user_id": 8,
   "description": null
+ },
+ {
+  "id": 142,
+  "date_begin": "2019-01-01",
+  "date_end": "2019-01-08",
+  "theme": "Тепло",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
