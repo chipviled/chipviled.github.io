@@ -5128,5 +5128,24 @@
   "is_win": 0,
   "created_at": "2019-01-01 10:51:02",
   "updated_at": "2019-01-01 10:51:02"
+ },
+ {
+  "id": 271,
+  "title": "-",
+  "description": null,
+  "file": null,
+  "file_path": "2019-01",
+  "file_name": "1547292334708_1.png",
+  "file_size": null,
+  "pict_width": 718,
+  "pict_height": 638,
+  "is_voted": 0,
+  "user_id": 1,
+  "keywords": null,
+  "vote": 0,
+  "iteration_id": 142,
+  "is_win": 0,
+  "created_at": "2019-01-12 01:25:34",
+  "updated_at": "2019-01-12 01:25:34"
  }
 ]

@@ -1134,5 +1134,13 @@
   "theme": "Тепло",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 143,
+  "date_begin": "2019-01-08",
+  "date_end": "2019-01-15",
+  "theme": "Свободная тема (4)",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
