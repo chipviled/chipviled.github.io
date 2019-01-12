@@ -2,4 +2,4 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-cp -r $DIR/../sw_tapok_drawing/build/* $DIR/sw_tapok_drawing
+rsync -rlptDvzuP --modify-window=1 $DIR/../sw_tapok_drawing/build/* $DIR/sw_tapok_drawing
