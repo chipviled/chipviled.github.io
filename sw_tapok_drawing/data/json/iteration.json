@@ -1198,5 +1198,13 @@
   "theme": "Свободная тема (11)",
   "theme_user_id": 1,
   "description": null
+ },
+ {
+  "id": 151,
+  "date_begin": "2019-03-05",
+  "date_end": "2019-03-12",
+  "theme": "Свободная тема (12)",
+  "theme_user_id": 1,
+  "description": null
  }
 ]
