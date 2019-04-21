@@ -1246,5 +1246,13 @@
   "theme": "Выбор",
   "theme_user_id": 44,
   "description": null
+ },
+ {
+  "id": 157,
+  "date_begin": "2019-04-16",
+  "date_end": "2019-04-23",
+  "theme": "Суд\\Судебный процесс",
+  "theme_user_id": 44,
+  "description": null
  }
 ]
