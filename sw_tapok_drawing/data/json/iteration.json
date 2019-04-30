@@ -1254,5 +1254,13 @@
   "theme": "Суд\\Судебный процесс",
   "theme_user_id": 44,
   "description": null
+ },
+ {
+  "id": 158,
+  "date_begin": "2019-04-23",
+  "date_end": "2019-04-30",
+  "theme": "Круг замкнулся",
+  "theme_user_id": 1,
+  "description": "Последний этап конкурса."
  }
 ]
