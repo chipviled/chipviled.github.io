@@ -2,13 +2,13 @@
 
 ## Основные персонажи
 
-![](./images/nsp_20130616_9.jpg =754x200)
+![](./images/nsp_20130616_9.jpg)
 
 ---
 
 ### Albert the Wolf
 
-![](./images/nsp006004albert.png =149x168)
+![](./images/nsp006004albert.png)
 
 **Имя**: Альберт
 
@@ -63,7 +63,7 @@
 
 ### Ela the Cat
 
-![](./images/nsp006004ela.png =222x151)
+![](./images/nsp006004ela.png)
 
 **Имя**: Ила (Эла)
 
@@ -119,7 +119,7 @@
 
 ### Darla the Cat
 
-![](./images/nsp006004darla.png =186x168)
+![](./images/nsp006004darla.png)
 
 **Имя**: Дарл (Дарла)
 
@@ -173,7 +173,7 @@
 
 ### Set
 
-![](./images/nsp006004set.png =151x176)
+![](./images/nsp006004set.png)
 
 **Имя**: Сет
 
@@ -226,7 +226,7 @@
 
 ### Nameless Fox
 
-![](./images/nsp006004nameless.png =133x171)
+![](./images/nsp006004nameless.png)
 
 **Имя**: Неймлесс
 
@@ -275,7 +275,7 @@
 
 ### Tar the Penguin
 
-![](./images/nsp006004tar.png =241x217)
+![](./images/nsp006004tar.png)
 
 **Имя**: Тар
 
@@ -326,7 +326,7 @@
 
 ### Chip
 
-![](./images/chip_flik113sa.png =180x187)
+![](./images/chip_flik113sa.png)
 
 **Имя**: Чип
 
